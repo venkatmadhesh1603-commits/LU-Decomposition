@@ -18,7 +18,7 @@ To write a program to find the LU Decomposition of a matrix.
 ```
 Program to find the LU Decomposition of a matrix.
 Developed by: Madhesh V
-RegisterNumber: 212225040214
+RegisterNumber: 21225040214
 import numpy as np
 from scipy.linalg import lu
 A=np.array(eval(input()))
@@ -26,7 +26,7 @@ P,L,U=lu(A)
 print(L)
 print(U)
 ```
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8e356a00-4eca-4598-a9d9-63393726d72f" />
+![WhatsApp Image 2026-03-28 at 8 54 52 AM](https://github.com/user-attachments/assets/ceb340d3-ac96-4804-a2db-1f636cbd6868)
 
 
 
@@ -34,7 +34,7 @@ print(U)
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: Madhesh v
+Developed by: Madhesh V
 RegisterNumber: 212225040214
 */
 
@@ -48,7 +48,7 @@ lu,pivot=lu_factor(A)
 x=lu_solve((lu,pivot),B)
 print(x)
 ```
-![WhatsApp Image 2026-03-28 at 8 54 23 AM](https://github.com/user-attachments/assets/4d0931e0-155a-4de3-880e-f1dff3c372b9)
+<img width="1207" height="778" alt="519058241-e06ffe27-2f76-47be-a859-8216ff67e82e" src="https://github.com/user-attachments/assets/3b29546f-2152-48d9-86ba-d50bc5f76937" />
 
 ## Output:
 <img width="1211" height="508" alt="519057864-a3121832-1f01-4f64-91c0-8536b8d7e759" src="https://github.com/user-attachments/assets/7e242d25-22f6-4f41-906f-0dcab2c58ea2" />
