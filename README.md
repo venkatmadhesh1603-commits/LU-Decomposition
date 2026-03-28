@@ -48,7 +48,7 @@ lu,pivot=lu_factor(A)
 x=lu_solve((lu,pivot),B)
 print(x)
 ```
-<img width="1207" height="778" alt="519058241-e06ffe27-2f76-47be-a859-8216ff67e82e" src="https://github.com/user-attachments/assets/3b29546f-2152-48d9-86ba-d50bc5f76937" />
+![WhatsApp Image 2026-03-28 at 8 54 23 AM](https://github.com/user-attachments/assets/4d0931e0-155a-4de3-880e-f1dff3c372b9)
 
 ## Output:
 <img width="1211" height="508" alt="519057864-a3121832-1f01-4f64-91c0-8536b8d7e759" src="https://github.com/user-attachments/assets/7e242d25-22f6-4f41-906f-0dcab2c58ea2" />
