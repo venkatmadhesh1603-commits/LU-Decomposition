@@ -18,7 +18,7 @@ To write a program to find the LU Decomposition of a matrix.
 ```
 Program to find the LU Decomposition of a matrix.
 Developed by: Madhesh V
-RegisterNumber: 21225040214
+RegisterNumber: 212225040214
 import numpy as np
 from scipy.linalg import lu
 A=np.array(eval(input()))
